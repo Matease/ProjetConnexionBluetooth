@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjetConnexionBluetooth</string>
+    <string name="DescriptionMain">Action en cours</string>
+    <string name="descriptionmain">DescriptionMain</string>
+    <string name="SousTitre">Voulez-vous activer le serveur (hub) ou le client (télécommande utilisateur) ?</string>
+    <string name="lancer_le_serveur">Lancer le serveur</string>
+    <string name="l_application_bluetooth">L\'application Bluetooth</string>
+    <string name="lancer_le_client">Lancer le client</string>
+</resources>
